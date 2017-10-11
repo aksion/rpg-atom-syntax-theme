@@ -1,13 +1,13 @@
 {
-  "name": "custom-atom-syntax-theme",
+  "name": "rpg-atom-syntax-theme",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "This theme adds the RPG syntax highlighting colors like in RDi.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/Place1/custom-atom-syntax-theme.git",
+  "repository": "https://github.com/aksion/rpg-atom-syntax-theme.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
